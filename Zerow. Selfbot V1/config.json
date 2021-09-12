@@ -1,0 +1,9 @@
+{
+  "token":"Your Token Here",
+  "prefix":"!", 
+  "password":"Your Account Password Here",
+
+  "tts_language":"en",
+  "nitro_sniper": true,
+  "stream_url":"twitch.tv/katexod"
+}
